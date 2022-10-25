@@ -24,7 +24,7 @@ This is the place where you can find information about installing, configuring, 
 
 ### Technical Support
 
-You are a customer with a valid [Software Upgrade Plan](https://www.swingsoftware.com/support), and have a product-related question or issue – let us give you a hand! Our technical support team is standing by to offer friendly, high-quality, responsive technical support.&#x20;
+You are a customer with a valid Software Subscription or Maintenance Plan, and have a product-related question or issue – let us give you a hand! Our technical support team is standing by to offer friendly, high-quality, responsive technical support.&#x20;
 
 {% hint style="info" %}
 Before you contact our Technical Support, please consult the FAQ lists and technical articles - someone may have already asked your question. It is also recommended that the latest update has been installed before reporting a problem with your software.
@@ -32,7 +32,7 @@ Before you contact our Technical Support, please consult the FAQ lists and techn
 
 If you are unable to find the answer you are looking for, please submit your [Support Request](https://swingsoftware.freshdesk.com/support/tickets).
 
-### Staying Connected <a href="header-7" id="header-7"></a>
+### Staying Connected <a href="#header-7" id="header-7"></a>
 
 Use the following links to follow SWING Software:
 

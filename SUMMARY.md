@@ -11,7 +11,7 @@
 
 ## Website
 
-* [Home](https://www.swingsoftware.com)
+* [Home](https://www.swingsoftware.com/)
 * [Solutions](https://www.swingsoftware.com/solutions)
 
 ## Support
