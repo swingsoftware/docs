@@ -2,17 +2,17 @@
 
 * [Overview](README.md)
 
-## Products
-
-* [Seascape for Notes](https://docs.swingsoftware.com/seascape-for-notes/)
-* [PDF Converter for Notes](https://docs.swingsoftware.com/pdf-converter-for-notes/)
-* [Integrator for Notes](https://docs.swingsoftware.com/integrator-for-notes/)
-* [Porter for Outlook](https://docs.swingsoftware.com/porter-for-outlook/)
-
 ## Website
 
-* [Home](https://www.swingsoftware.com/)
 * [Solutions](https://www.swingsoftware.com/solutions)
+* [Home](https://www.swingsoftware.com/)
+
+## Products
+
+* [Seascape for Notes](https://www.swingsoftware.com/seascape-for-notes)
+* [PDF Converter for Notes](https://www.swingsoftware.com/seascape-for-notes)
+* [Integrator for Notes](https://www.swingsoftware.com/integrator-for-notes)
+* [Porter for Outlook](https://www.swingsoftware.com/porter-for-outlook)
 
 ## Support
 
