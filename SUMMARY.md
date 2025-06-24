@@ -4,8 +4,8 @@
 
 ## Website
 
-* [Solutions](https://www.swingsoftware.com/solutions)
 * [Home](https://www.swingsoftware.com/)
+* [Solutions](https://www.swingsoftware.com/solutions)
 
 ## Products
 
