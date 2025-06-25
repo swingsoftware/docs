@@ -9,10 +9,10 @@
 
 ## Products
 
-* [Seascape for Notes](https://www.swingsoftware.com/seascape-for-notes)
-* [PDF Converter for Notes](https://www.swingsoftware.com/seascape-for-notes)
-* [Integrator for Notes](https://www.swingsoftware.com/integrator-for-notes)
-* [Porter for Outlook](https://www.swingsoftware.com/porter-for-outlook)
+* [Seascape for Notes](https://app.gitbook.com/o/-MkmLug6nwvphZPxq8GW/s/-MkmLDl5OXrWVfn2nv57/)
+* [PDF Converter for Notes](https://app.gitbook.com/o/-MkmLug6nwvphZPxq8GW/s/-MlCAurE6RSGoCmtmAET/)
+* [Integrator for Notes](https://app.gitbook.com/o/-MkmLug6nwvphZPxq8GW/s/-MkpbT4Bt5ort6HdK9SP/)
+* [Porter for Outlook](https://app.gitbook.com/o/-MkmLug6nwvphZPxq8GW/s/-MlByckakJAVY8Rukvr4/)
 
 ## Support
 
